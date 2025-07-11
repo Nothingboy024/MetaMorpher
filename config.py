@@ -1,4 +1,4 @@
-#ALL FILES UPLOADED - CREDITS 🌟 - @Sunrises_24
+
 import re
 from os import environ
 import os
@@ -8,8 +8,7 @@ id_pattern = re.compile(r'^.\d+$')
 
 API_ID = os.environ.get("API_ID", "16995961")
 API_HASH = os.environ.get("API_HASH", "8817a7d4293049593e60999359970ddd")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7852987763:AAEepkRa46GR-rkyFG6t_P0MtXrScHLw1Ms
-")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7855456068:AAF3aP8QtgWdCg7qgwU7lZV1ZLLYIPhxjGI")
 ADMIN = int(os.environ.get("ADMIN", '7364106679'))
 FSUB_UPDATES = os.environ.get("FSUB_CHANNEL", "forcesubnothingboy1")
 FSUB_GROUP = os.environ.get("FSUB_GROUP", "forcesubnothingboy")
