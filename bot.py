@@ -4,6 +4,7 @@ from pyrogram import Client
 from aiohttp import web
 from main.web_support import web_server
 from config import *
+from gofile_uploader import upload_to_gofile
 import os
 
 
